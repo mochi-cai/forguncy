@@ -1,0 +1,190 @@
+{
+  "Rows": {
+    "RowColumnAttachedInfos": {
+      "1": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 10.0
+        }
+      },
+      "2": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 10.0
+        }
+      },
+      "4": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 10.0
+        }
+      },
+      "5": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 10.0
+        }
+      }
+    },
+    "Count": 36
+  },
+  "Cols": {
+    "Count": 64
+  },
+  "AttachInfos": {
+    "1,1": {
+      "CellType": {
+        "$type": "Forguncy.ImageCellType, ServerDesignerCommon",
+        "ImagePath": "fgc_logo_light.png"
+      }
+    },
+    "2,54": {
+      "CellType": {
+        "$type": "Forguncy.CurrentUserCellType, ServerDesignerCommon",
+        "CellCustomValue": "%CurrentUser%",
+        "ShowCircleUserPicture": true,
+        "NavigateSettingWhenLogout": {
+          "NavigateWhenLogoutMode": 1
+        }
+      }
+    },
+    "7,0": {
+      "CellType": {
+        "$type": "Forguncy.CustomMenu.ForguncyMenuCellType, Forguncy.CustomMenu",
+        "TemplateKey": "_RS_Dark_ThemeStyle2",
+        "Items": [
+          {
+            "Text": "メニュ  1",
+            "IconPath": "Navigation/165_home_3.svg",
+            "IconColorUseItemColor": true,
+            "IsOldMenuPath": false,
+            "CanVisitRoleList": [
+              "FGC_Anonymous"
+            ],
+            "SubItems": [
+              {
+                "Text": "メニュ 1_1",
+                "CanVisitRoleList": [
+                  "FGC_Anonymous"
+                ]
+              },
+              {
+                "Text": "メニュ  1_2",
+                "CanVisitRoleList": [
+                  "FGC_Anonymous"
+                ]
+              }
+            ]
+          },
+          {
+            "Text": "メニュ  2",
+            "IconPath": "Navigation/183_table_2.svg",
+            "IconColorUseItemColor": true,
+            "IsOldMenuPath": false,
+            "CanVisitRoleList": [
+              "FGC_Anonymous"
+            ],
+            "SubItems": [
+              {
+                "Text": "メニュ  2_1",
+                "CanVisitRoleList": [
+                  "FGC_Anonymous"
+                ]
+              },
+              {
+                "Text": "メニュ 2_2",
+                "CanVisitRoleList": [
+                  "FGC_Anonymous"
+                ]
+              }
+            ]
+          },
+          {
+            "Text": "メニュ 3",
+            "IconPath": "Chart/363_column_chart_2.svg",
+            "IconColorUseItemColor": true,
+            "IsOldMenuPath": false,
+            "CanVisitRoleList": [
+              "FGC_Anonymous"
+            ],
+            "SubItems": [
+              {
+                "Text": "メニュ  3_1",
+                "CanVisitRoleList": [
+                  "FGC_Anonymous"
+                ]
+              },
+              {
+                "Text": "メニュ  3_2",
+                "CanVisitRoleList": [
+                  "FGC_Anonymous"
+                ]
+              }
+            ]
+          }
+        ],
+        "Orientation": 0,
+        "MenuLevelsStyle": [
+          {
+            "FontSize": 17.3333333333333,
+            "Height": 45.0,
+            "Width": 200.0,
+            "IconHeight": 24.0,
+            "IconWidth": 24.0
+          },
+          {
+            "FontSize": 16.0,
+            "Height": 32.0,
+            "Width": 200.0,
+            "IconHeight": 24.0,
+            "IconWidth": 24.0
+          }
+        ]
+      }
+    },
+    "9,0": {
+      "IsPlaceHolderCell": true
+    }
+  },
+  "StyleDatas": {
+    "Types": {
+      "Strs": [
+        "Body"
+      ]
+    },
+    "SheetStyle": {
+      "FontFamily": 0
+    }
+  },
+  "Spans": [
+    "1,1,5,10",
+    "9,0,27,64",
+    "2,54,3,10",
+    "7,0,2,64"
+  ],
+  "BackgroundPictures": [
+    {
+      "FitToBrowserWidth": true,
+      "FitToBrowserHeight": true,
+      "Repeat": true,
+      "DisplayName": "背景画像1",
+      "ForguncyPictureName": "PCMasterBackground",
+      "Stretch": 2,
+      "ForguncyPictureSourceType": 2,
+      "Name": "515397b3-ef9b-4f31-a45b-aa3c3ce18665",
+      "Size": "200,210"
+    },
+    {
+      "DisplayName": "背景画像2",
+      "ForguncyPictureName": "PCMasterBanner",
+      "Stretch": 3,
+      "ForguncyPictureSourceType": 2,
+      "Name": "d7fb6181-e71a-4167-8b3d-6a2865f62b2a",
+      "Size": "1280,100"
+    }
+  ],
+  "PageInfo": {
+    "$type": "Forguncy.Model.Pages.MasterPage, ServerDesignerCommon",
+    "PageLoadedCommandList": []
+  },
+  "PrintInfo": {
+    "Margin": {},
+    "PaperSize": {}
+  }
+}//mF7LTEcveUwmzpWO+H9xKMKVkyIer6bloSgmUqFti+AjrZUeT9nBx5jlohDPq8Ddn6tJBrv3v1SVyYRqdUqBM5h/xENnsdkhGqrn7fz2ZhqZIsJWjKLEBmxmJaReORK3pgkebUVuAcjuAjWexQliSmckwuPjcydQwNbcj0B7oXxCFmz3f2mClgJiZD2GHp5aSMHKiVj6H2IC5+SyK+5dxOmaAVhpanDTbcwsKAvRXOuHf0gyeDOXUvoEpcL3W+iV7pMm/WwFU1/a6hwHu0y+u1KnJkKHTUtUzT58NrSwasDeBo/2fzypxeD7coZgmMGB3Nn2DUiL/i+0LbsHadKehZc90X1aOa4Hy5Vw3SXLydpWLpyi4+kS1rVEoZ9hqmALBXaF+6zZJjFFjKyZAKOvfqNGL4afgsf5FJfjmK09fdHEfvHY+jRXdKRBxdDzci1UZewcLxmG/mEH8YPOlp1hRN2vPtyt1JuOjXlBJ98F1wpveTtYithPDQHkPY5w6PHytEWgyDc/rBRGKYfx+YK2ucUkYjJfY+Mo50F1BJmsdoRZp+wXi/n2dlsNz+bcs4qfDMvrrvgZ2S+VwAvQ7rXWOn6n+He9hvZxsxB2ObBx7iPSOe9CgSwf+9y92H4JtBv1V/1y5jPw30aiYjM5h5Cu4jWVls5K3gCvkeThiShPeShfP08zLg77aAdDrNezjru0im3bKVyUjKum/O38G9Ggdp2G+Vct7P1thNtoBr67Z+RxqfBUa1ZgVYQXwB5ookxrIeLs7IcBhjLlKoFkhl10i9Kmt4XawcndFcmpJF9ZBJROCfUrCSfroHmDcficgCjg7N9YkXOzws/z26o8K+ME6wCCzNgrY/f7r2hOc42aAczkJQeefOyYPO1FklhlSSCPvtAdINaNuAslgIEMhcFRAQ==|920

@@ -1,0 +1,702 @@
+{
+  "Rows": {
+    "RowColumnAttachedInfos": {
+      "0": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 10.0
+        }
+      },
+      "1": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 28.0
+        }
+      },
+      "2": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 28.0
+        }
+      },
+      "3": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 10.0
+        }
+      }
+    },
+    "Count": 42
+  },
+  "Cols": {
+    "Count": 64
+  },
+  "Values": {
+    "41,0": "COPYRIGHT(C) XXX Inc. All Rights Reserved."
+  },
+  "AttachInfos": {
+    "2,54": {
+      "CellType": {
+        "$type": "Forguncy.CurrentUserCellType, ServerDesignerCommon",
+        "CellCustomValue": "%CurrentUser%",
+        "ShowCircleUserPicture": true,
+        "NavigateSettingWhenLogout": {
+          "NavigateWhenLogoutMode": 1
+        }
+      }
+    },
+    "4,0": {
+      "CellType": {
+        "$type": "Forguncy.CustomMenu.ForguncyMenuCellType, Forguncy.CustomMenu",
+        "TemplateKey": "スタイル1",
+        "Items": [
+          {
+            "Text": "流通共通システム",
+            "IconPath": "Navigation/165_home_3.svg",
+            "SelectedIconColor": "Background 1",
+            "SelectedIconColorUseItemColor": true,
+            "IconColorUseItemColor": true,
+            "IsOldMenuPath": false,
+            "CanVisitRoleList": [
+              "FGC_Anonymous"
+            ],
+            "SubItems": [
+              {
+                "Value": "　１　デイリー",
+                "Text": "　１　デイリー",
+                "SelectedIconColor": "Background 1",
+                "SelectedIconColorUseItemColor": true,
+                "IconColorUseItemColor": true,
+                "IsOldMenuPath": false,
+                "CanVisitRoleList": [
+                  "FGC_Anonymous"
+                ]
+              },
+              {
+                "Text": "　３　各種参照",
+                "SelectedIconColor": "Background 1",
+                "SelectedIconColorUseItemColor": true,
+                "IconColorUseItemColor": true,
+                "IsOldMenuPath": false,
+                "CanVisitRoleList": [
+                  "FGC_Anonymous"
+                ]
+              }
+            ]
+          },
+          {
+            "Text": "メンテナンス",
+            "IconPath": "Application/053_settings_4.svg",
+            "SelectedIconColor": "Background 1",
+            "SelectedIconColorUseItemColor": true,
+            "IconColorUseItemColor": true,
+            "IsOldMenuPath": false,
+            "CanVisitRoleList": [
+              "FGC_Anonymous"
+            ],
+            "SubItems": [
+              {
+                "Text": "１１　品名M　メンテ＆リスト",
+                "SelectedIconColor": "Background 1",
+                "SelectedIconColorUseItemColor": true,
+                "IconColorUseItemColor": true,
+                "IsOldMenuPath": false,
+                "CanVisitRoleList": [
+                  "FGC_Anonymous"
+                ]
+              },
+              {
+                "Text": "１２　品名M　メンテ＆リスト②",
+                "SelectedIconColor": "Background 1",
+                "SelectedIconColorUseItemColor": true,
+                "IconColorUseItemColor": true,
+                "IsOldMenuPath": false,
+                "CanVisitRoleList": [
+                  "FGC_Anonymous"
+                ]
+              },
+              {
+                "Value": "１３　基本M　メンテ＆リスト",
+                "Text": "１３　基本M　メンテ＆リスト",
+                "SelectedIconColor": "Background 1",
+                "SelectedIconColorUseItemColor": true,
+                "IconColorUseItemColor": true,
+                "IsOldMenuPath": false,
+                "CanVisitRoleList": [
+                  "FGC_Anonymous"
+                ]
+              },
+              {
+                "Value": "１４　各種M　メンテ＆リスト",
+                "Text": "１４　各種M　メンテ＆リスト",
+                "SelectedIconColor": "Background 1",
+                "SelectedIconColorUseItemColor": true,
+                "IconColorUseItemColor": true,
+                "IsOldMenuPath": false,
+                "CanVisitRoleList": [
+                  "FGC_Anonymous"
+                ]
+              },
+              {
+                "Value": "１５　製造M　メンテナンス",
+                "Text": "１５　製造M　メンテナンス",
+                "SelectedIconColor": "Background 1",
+                "SelectedIconColorUseItemColor": true,
+                "IconColorUseItemColor": true,
+                "IsOldMenuPath": false,
+                "CanVisitRoleList": [
+                  "FGC_Anonymous"
+                ]
+              },
+              {
+                "Value": "１６　各種ファイル　メンテナンス",
+                "Text": "１６　各種ファイル　メンテナンス",
+                "SelectedIconColor": "Background 1",
+                "SelectedIconColorUseItemColor": true,
+                "IconColorUseItemColor": true,
+                "IsOldMenuPath": false,
+                "CanVisitRoleList": [
+                  "FGC_Anonymous"
+                ]
+              },
+              {
+                "Value": "１７　さくらM　メンテナンス",
+                "Text": "１７　さくらM　メンテナンス",
+                "SelectedIconColor": "Background 1",
+                "SelectedIconColorUseItemColor": true,
+                "IconColorUseItemColor": true,
+                "IsOldMenuPath": false,
+                "CanVisitRoleList": [
+                  "FGC_Anonymous"
+                ]
+              },
+              {
+                "Value": "１８　支払　M　メンテナンス",
+                "Text": "１８　支払　M　メンテナンス",
+                "SelectedIconColor": "Background 1",
+                "SelectedIconColorUseItemColor": true,
+                "IconColorUseItemColor": true,
+                "IsOldMenuPath": false,
+                "CanVisitRoleList": [
+                  "FGC_Anonymous"
+                ]
+              }
+            ]
+          },
+          {
+            "Text": "新物流販売システム",
+            "IconPath": "Application/130_list_2.svg",
+            "SelectedIconColor": "Background 1",
+            "SelectedIconColorUseItemColor": true,
+            "IconColorUseItemColor": true,
+            "IsOldMenuPath": false,
+            "CanVisitRoleList": [
+              "FGC_Anonymous"
+            ],
+            "SubItems": [
+              {
+                "Text": "２１　店舗受注",
+                "SelectedIconColor": "Background 1",
+                "SelectedIconColorUseItemColor": true,
+                "IconColorUseItemColor": true,
+                "IsOldMenuPath": false,
+                "CanVisitRoleList": [
+                  "FGC_Anonymous"
+                ]
+              },
+              {
+                "Text": "２２　店舗引当",
+                "SelectedIconColor": "Background 1",
+                "SelectedIconColorUseItemColor": true,
+                "IconColorUseItemColor": true,
+                "IsOldMenuPath": false,
+                "CanVisitRoleList": [
+                  "FGC_Anonymous"
+                ]
+              },
+              {
+                "Value": "２３　店舗出荷",
+                "Text": "２３　店舗出荷",
+                "SelectedIconColor": "Background 1",
+                "SelectedIconColorUseItemColor": true,
+                "IconColorUseItemColor": true,
+                "IsOldMenuPath": false,
+                "CanVisitRoleList": [
+                  "FGC_Anonymous"
+                ]
+              },
+              {
+                "Value": "２４　業者発注",
+                "Text": "２４　業者発注",
+                "SelectedIconColor": "Background 1",
+                "SelectedIconColorUseItemColor": true,
+                "IconColorUseItemColor": true,
+                "IsOldMenuPath": false,
+                "CanVisitRoleList": [
+                  "FGC_Anonymous"
+                ]
+              },
+              {
+                "Value": "２５　業者入荷",
+                "Text": "２５　業者入荷",
+                "SelectedIconColor": "Background 1",
+                "SelectedIconColorUseItemColor": true,
+                "IconColorUseItemColor": true,
+                "IsOldMenuPath": false,
+                "CanVisitRoleList": [
+                  "FGC_Anonymous"
+                ]
+              },
+              {
+                "Value": "２６　移動・振替",
+                "Text": "２６　移動・振替",
+                "SelectedIconColor": "Background 1",
+                "SelectedIconColorUseItemColor": true,
+                "IconColorUseItemColor": true,
+                "IsOldMenuPath": false,
+                "CanVisitRoleList": [
+                  "FGC_Anonymous"
+                ]
+              },
+              {
+                "Value": "２７　在庫管理",
+                "Text": "２７　在庫管理",
+                "SelectedIconColor": "Background 1",
+                "SelectedIconColorUseItemColor": true,
+                "IconColorUseItemColor": true,
+                "IsOldMenuPath": false,
+                "CanVisitRoleList": [
+                  "FGC_Anonymous"
+                ]
+              },
+              {
+                "Value": "２８　入金・支払",
+                "Text": "２８　入金・支払",
+                "SelectedIconColor": "Background 1",
+                "SelectedIconColorUseItemColor": true,
+                "IconColorUseItemColor": true,
+                "IsOldMenuPath": false,
+                "CanVisitRoleList": [
+                  "FGC_Anonymous"
+                ]
+              },
+              {
+                "Value": "２９　統計・分析",
+                "Text": "２９　統計・分析",
+                "SelectedIconColor": "Background 1",
+                "SelectedIconColorUseItemColor": true,
+                "IconColorUseItemColor": true,
+                "IsOldMenuPath": false,
+                "CanVisitRoleList": [
+                  "FGC_Anonymous"
+                ]
+              },
+              {
+                "Value": "３０　随時・その他",
+                "Text": "３０　随時・その他",
+                "SelectedIconColor": "Background 1",
+                "SelectedIconColorUseItemColor": true,
+                "IconColorUseItemColor": true,
+                "IsOldMenuPath": false,
+                "CanVisitRoleList": [
+                  "FGC_Anonymous"
+                ]
+              }
+            ]
+          },
+          {
+            "Value": "製造システム",
+            "Text": "製造システム",
+            "IconPath": "Application/132_title_1.svg",
+            "SelectedIconColor": "Background 1",
+            "SelectedIconColorUseItemColor": true,
+            "IconColorUseItemColor": true,
+            "IsOldMenuPath": false,
+            "CanVisitRoleList": [
+              "FGC_Anonymous"
+            ],
+            "SubItems": [
+              {
+                "Value": "４１　製造計画",
+                "Text": "４１　製造計画",
+                "SelectedIconColor": "Background 1",
+                "SelectedIconColorUseItemColor": true,
+                "IconColorUseItemColor": true,
+                "IsOldMenuPath": false,
+                "CanVisitRoleList": [
+                  "FGC_Anonymous"
+                ]
+              },
+              {
+                "Value": "４２　製造実績",
+                "Text": "４２　製造実績",
+                "SelectedIconColor": "Background 1",
+                "SelectedIconColorUseItemColor": true,
+                "IconColorUseItemColor": true,
+                "IsOldMenuPath": false,
+                "CanVisitRoleList": [
+                  "FGC_Anonymous"
+                ]
+              },
+              {
+                "Value": "４４　分析資料",
+                "Text": "４４　分析資料",
+                "SelectedIconColor": "Background 1",
+                "SelectedIconColorUseItemColor": true,
+                "IconColorUseItemColor": true,
+                "IsOldMenuPath": false,
+                "CanVisitRoleList": [
+                  "FGC_Anonymous"
+                ]
+              }
+            ]
+          }
+        ],
+        "Orientation": 0,
+        "MenuLevelsStyle": [
+          {
+            "FontSize": 17.3333333333333,
+            "Height": 45.0,
+            "Width": 200.0,
+            "IconHeight": 24.0,
+            "IconWidth": 24.0
+          },
+          {
+            "FontSize": 16.0,
+            "Height": 32.0,
+            "Width": 200.0,
+            "IconHeight": 24.0,
+            "IconWidth": 24.0
+          },
+          {
+            "FontSize": 16.0,
+            "Height": 32.0,
+            "Width": 200.0,
+            "IconHeight": 24.0,
+            "IconWidth": 24.0
+          }
+        ]
+      }
+    },
+    "6,0": {
+      "IsPlaceHolderCell": true
+    }
+  },
+  "StyleDatas": {
+    "Styles": [
+      {
+        "Background": 0
+      },
+      {
+        "Background": 0,
+        "Foreground": 1
+      },
+      {
+        "Background": 2,
+        "FontSize": 12.0,
+        "HorizontalAlignment": 3
+      }
+    ],
+    "Types": {
+      "Strs": [
+        "Text 1 0",
+        "Background 1 0",
+        "Background 1 -25",
+        "Center",
+        "Body"
+      ]
+    },
+    "CellStyles": {
+      "0,0": 0,
+      "0,1": 0,
+      "0,2": 0,
+      "0,3": 0,
+      "0,4": 0,
+      "0,5": 0,
+      "0,6": 0,
+      "0,7": 0,
+      "0,8": 0,
+      "0,9": 0,
+      "0,10": 0,
+      "0,11": 0,
+      "0,12": 0,
+      "0,13": 0,
+      "0,14": 0,
+      "0,15": 0,
+      "0,16": 0,
+      "0,17": 0,
+      "0,18": 0,
+      "0,19": 0,
+      "0,20": 0,
+      "0,21": 0,
+      "0,22": 0,
+      "0,23": 0,
+      "0,24": 0,
+      "0,25": 0,
+      "0,26": 0,
+      "0,27": 0,
+      "0,28": 0,
+      "0,29": 0,
+      "0,30": 0,
+      "0,31": 0,
+      "0,32": 0,
+      "0,33": 0,
+      "0,34": 0,
+      "0,35": 0,
+      "0,36": 0,
+      "0,37": 0,
+      "0,38": 0,
+      "0,39": 0,
+      "0,40": 0,
+      "0,41": 0,
+      "0,42": 0,
+      "0,43": 0,
+      "0,44": 0,
+      "0,45": 0,
+      "0,46": 0,
+      "0,47": 0,
+      "0,48": 0,
+      "0,49": 0,
+      "0,50": 0,
+      "0,51": 0,
+      "0,52": 0,
+      "0,53": 0,
+      "0,54": 0,
+      "0,55": 0,
+      "0,56": 0,
+      "0,57": 0,
+      "0,58": 0,
+      "0,59": 0,
+      "0,60": 0,
+      "0,61": 0,
+      "0,62": 0,
+      "0,63": 0,
+      "1,0": 0,
+      "1,1": 0,
+      "1,8": 0,
+      "1,9": 0,
+      "1,10": 0,
+      "1,11": 0,
+      "1,12": 0,
+      "1,13": 0,
+      "1,14": 0,
+      "1,15": 0,
+      "1,16": 0,
+      "1,17": 0,
+      "1,18": 0,
+      "1,19": 0,
+      "1,20": 0,
+      "1,21": 0,
+      "1,22": 0,
+      "1,23": 0,
+      "1,24": 0,
+      "1,25": 0,
+      "1,26": 0,
+      "1,27": 0,
+      "1,28": 0,
+      "1,29": 0,
+      "1,30": 0,
+      "1,31": 0,
+      "1,32": 0,
+      "1,33": 0,
+      "1,34": 0,
+      "1,35": 0,
+      "1,36": 0,
+      "1,37": 0,
+      "1,38": 0,
+      "1,39": 0,
+      "1,40": 0,
+      "1,41": 0,
+      "1,42": 0,
+      "1,43": 0,
+      "1,44": 0,
+      "1,45": 0,
+      "1,46": 0,
+      "1,47": 0,
+      "1,48": 0,
+      "1,49": 0,
+      "1,50": 0,
+      "1,51": 0,
+      "1,52": 0,
+      "1,53": 0,
+      "1,54": 0,
+      "1,55": 0,
+      "1,56": 0,
+      "1,57": 0,
+      "1,58": 0,
+      "1,59": 0,
+      "1,60": 0,
+      "1,61": 0,
+      "1,62": 0,
+      "1,63": 0,
+      "2,0": 0,
+      "2,8": 0,
+      "2,9": 0,
+      "2,10": 0,
+      "2,11": 0,
+      "2,12": 0,
+      "2,13": 0,
+      "2,14": 0,
+      "2,15": 0,
+      "2,16": 0,
+      "2,17": 0,
+      "2,18": 0,
+      "2,19": 0,
+      "2,20": 0,
+      "2,21": 0,
+      "2,22": 0,
+      "2,23": 0,
+      "2,24": 0,
+      "2,25": 0,
+      "2,26": 0,
+      "2,27": 0,
+      "2,28": 0,
+      "2,29": 0,
+      "2,30": 0,
+      "2,31": 0,
+      "2,32": 0,
+      "2,33": 0,
+      "2,34": 0,
+      "2,35": 0,
+      "2,36": 0,
+      "2,37": 0,
+      "2,38": 0,
+      "2,39": 0,
+      "2,40": 0,
+      "2,41": 0,
+      "2,42": 0,
+      "2,43": 0,
+      "2,44": 0,
+      "2,45": 0,
+      "2,46": 0,
+      "2,47": 0,
+      "2,48": 0,
+      "2,49": 0,
+      "2,50": 0,
+      "2,51": 0,
+      "2,52": 0,
+      "2,53": 0,
+      "2,54": 1,
+      "2,63": 0,
+      "3,0": 0,
+      "3,1": 0,
+      "3,2": 0,
+      "3,3": 0,
+      "3,4": 0,
+      "3,5": 0,
+      "3,6": 0,
+      "3,7": 0,
+      "3,8": 0,
+      "3,9": 0,
+      "3,10": 0,
+      "3,11": 0,
+      "3,12": 0,
+      "3,13": 0,
+      "3,14": 0,
+      "3,15": 0,
+      "3,16": 0,
+      "3,17": 0,
+      "3,18": 0,
+      "3,19": 0,
+      "3,20": 0,
+      "3,21": 0,
+      "3,22": 0,
+      "3,23": 0,
+      "3,24": 0,
+      "3,25": 0,
+      "3,26": 0,
+      "3,27": 0,
+      "3,28": 0,
+      "3,29": 0,
+      "3,30": 0,
+      "3,31": 0,
+      "3,32": 0,
+      "3,33": 0,
+      "3,34": 0,
+      "3,35": 0,
+      "3,36": 0,
+      "3,37": 0,
+      "3,38": 0,
+      "3,39": 0,
+      "3,40": 0,
+      "3,41": 0,
+      "3,42": 0,
+      "3,43": 0,
+      "3,44": 0,
+      "3,45": 0,
+      "3,46": 0,
+      "3,47": 0,
+      "3,48": 0,
+      "3,49": 0,
+      "3,50": 0,
+      "3,51": 0,
+      "3,52": 0,
+      "3,53": 0,
+      "3,54": 0,
+      "3,55": 0,
+      "3,56": 0,
+      "3,57": 0,
+      "3,58": 0,
+      "3,59": 0,
+      "3,60": 0,
+      "3,61": 0,
+      "3,62": 0,
+      "3,63": 0
+    },
+    "RowStyles": {
+      "41": 2
+    },
+    "SheetStyle": {
+      "FontFamily": 4
+    }
+  },
+  "Spans": [
+    "4,0,2,64",
+    "2,54,1,9",
+    "1,1,2,7",
+    "6,0,35,64",
+    "41,0,1,64"
+  ],
+  "Pictures": [
+    {
+      "ForguncyPictureName": "logo.jpeg",
+      "Stretch": 2,
+      "PictureCommands": [
+        {
+          "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
+          "PageName": "200_PORTAL",
+          "PassValues": []
+        }
+      ],
+      "ForguncyPictureSourceType": 0,
+      "Name": "dc4f1635-e58b-4b59-9ca3-2b0eceafc907.jpeg",
+      "Location": "29,11",
+      "Size": "101,57"
+    }
+  ],
+  "BackgroundPictures": [
+    {
+      "FitToBrowserWidth": true,
+      "FitToBrowserHeight": true,
+      "Repeat": true,
+      "DisplayName": "背景画像1",
+      "ForguncyPictureName": "PCMasterBackground",
+      "Stretch": 2,
+      "ForguncyPictureSourceType": 2,
+      "Name": "515397b3-ef9b-4f31-a45b-aa3c3ce18665",
+      "Size": "200,186"
+    },
+    {
+      "DisplayName": "背景画像2",
+      "ForguncyPictureName": "PCMasterBanner",
+      "Stretch": 3,
+      "ForguncyPictureSourceType": 2,
+      "Name": "d7fb6181-e71a-4167-8b3d-6a2865f62b2a",
+      "Size": "1280,76"
+    }
+  ],
+  "PageInfo": {
+    "$type": "Forguncy.Model.Pages.MasterPage, ServerDesignerCommon",
+    "PageLoadedCommandList": []
+  },
+  "PrintInfo": {
+    "Margin": {},
+    "PaperSize": {}
+  }
+}//PCf5ABxdGn7bt5rZS4nJkQDuSqYPLHBz8DzHcKcHGbv4zpx04yko2vzGfdM8x2HrndizCCBltUiHEG7qrdSR3iQGkS8IO4eQ8qI8EqhqF2nNSPMFVUhf3GzTJgZZ5+c+A+eQqPc59eVWz4thaFn98efk7naIE5WViv+yW+oPTjYvTb9cZM3Oic8UkVeYBVhEUs+3gP/SHGmbPkovUQFRnY0mfkaYqpXVYKYZiZZhI6cSCa+J72uSCMulalsXh/ScAIO/rQd0IvLMo5DKt8NPNy4tYVT3qvjvgjQVt9e9wS3rlVKcqkGBgeQGkjpWjTWTEUjnr55YYxCjGm7mjs+DkSH9zd0UY+EuJx6TszA4jgdzcV46ALXzrDYUqzPZiTQUSIf6CxJajjS0h72+r9ExJxSiLYCxM1Bw4rfWwVM59vjpHH1PfuAD938RZKZxWCgBwTpvpSnTd9QNCnX3J97RLeb7zDSOCuHh/f1OO2bD769lmvsvSf+NjDG+LftSjSIy9/T7z33n01nocg96w33vjlSav7v0E4ZaJQqzd/QO+zeZJ07OMa85LCXWJNgZ8JUvpzh1y6I9V2kbuK+P2pAJ6TyRKVUsQsokcWs+pK2eZ/ucK1fDcTgAqWz/SJRMIn9HmPgUqwT57Pp5hQwS/us/PRSKzBE2oFe/pFFB6IpkUgqzheJg7oQw75iSOCGYNFiu3//MjS0DFwlNA9/ANyHC4umlqPZ9gkwPkrPfLpscwYSqMZCVACZiIfCH9G0TDpC29NWUjZWB/xOgQ8P0UHnanPiMq2/bhfF+QY7RGIi8zDrZqBJhyHGYBAq9Ho8zakQRizQMwnCPzN7nkuF7J3fHKO2wPv/d4rtCiN1K+v78bKi0gJ+HkO1A5Hnbv7cCJK2+PCv4SJDq40rYNbpAnr3oPg==|920
